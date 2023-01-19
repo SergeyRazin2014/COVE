@@ -1,0 +1,1 @@
+export const postsUrl = 'https://my-json-server.typicode.com/savayer/demo/posts';
